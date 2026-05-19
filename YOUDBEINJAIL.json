@@ -1,0 +1,17 @@
+{
+  "asset":"YOUDBEINJAIL",
+  "name":"YOUDBEINJAIL",
+  "description":"YOUDBEINJAIL Pepe Project card",
+  "images":[
+    {
+      "type":"icon",
+      "data":"https://raw.githubusercontent.com/DazeOner/YOUDBEINJAIL-MP4-AND-ICON/main/YOUDBEINJAIL%2048X48.png"
+    }
+  ],
+  "video":[
+    {
+      "type":"mp4",
+      "data":"https://raw.githubusercontent.com/DazeOner/YOUDBEINJAIL-MP4-AND-ICON/main/YOUDBEINJAIL-1.mp4"
+    }
+  ]
+}
